@@ -1,3 +1,3 @@
 # Szablon repozytorium
 
-Plik "main.py" ma zawierać kod. 
+Plik "main.py" musi zawierać kod do uruchomienia.
